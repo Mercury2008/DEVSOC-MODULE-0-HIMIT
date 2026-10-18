@@ -1,0 +1,4 @@
+# One prompt per line. Lines starting with '#' are ignored.
+Explain linear regression in two sentences.
+What is the difference between overfitting and underfitting?
+Write a haiku about gradient descent.
