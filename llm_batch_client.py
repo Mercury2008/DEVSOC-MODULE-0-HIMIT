@@ -1,12 +1,3 @@
-"""Send prompts from a text file to an LLM API (Groq) and save the responses as JSON.
-
-Usage:
-    export GROQ_API_KEY="your_key_here"
-    python llm_batch_client.py --input prompts.txt --output responses.json
-
-Input file format: one prompt per line. Blank lines and lines starting with '#' are ignored.
-Get a free API key at https://console.groq.com/keys
-"""
 
 import argparse
 import json
